@@ -14,7 +14,6 @@
 ## 使用技術
 
 - Python
-- Slack API
 - OpenAI API (ChatGPT)
 
 ---
